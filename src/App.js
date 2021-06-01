@@ -1,5 +1,10 @@
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Redirect,
+} from "react-router-dom";
 import BookDetails from "./components/BookDetails";
 import Home from "./components/Home";
 import Header from "./components/Header";
@@ -96,6 +101,9 @@ const App = () => {
       <div className="app">
         <Header />
         <Switch>
+          <Route exact path="/iequos-library">
+            <Redirect to="/" />;
+          </Route>
           <Route
             exact
             path="/"

@@ -101,12 +101,12 @@ const App = () => {
       <div className="app">
         <Header />
         <Switch>
-          <Route exact path="/iequos-library">
-            <Redirect to="/" />;
+          <Route exact path="/">
+            <Redirect to="/iequos-library" />;
           </Route>
           <Route
             exact
-            path="/"
+            path="/iequos-library"
             render={(props) => (
               <Home categories={categories} books={books} {...props} />
             )}

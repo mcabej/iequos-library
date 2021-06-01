@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iequos-library/static/css/main.5c4f4c12.chunk.css",
-    "main.js": "/iequos-library/static/js/main.b680cad7.chunk.js",
-    "main.js.map": "/iequos-library/static/js/main.b680cad7.chunk.js.map",
+    "main.js": "/iequos-library/static/js/main.dc4d1142.chunk.js",
+    "main.js.map": "/iequos-library/static/js/main.dc4d1142.chunk.js.map",
     "runtime-main.js": "/iequos-library/static/js/runtime-main.6cbc0d21.js",
     "runtime-main.js.map": "/iequos-library/static/js/runtime-main.6cbc0d21.js.map",
     "static/js/2.727fbf11.chunk.js": "/iequos-library/static/js/2.727fbf11.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.6cbc0d21.js",
     "static/js/2.727fbf11.chunk.js",
     "static/css/main.5c4f4c12.chunk.css",
-    "static/js/main.b680cad7.chunk.js"
+    "static/js/main.dc4d1142.chunk.js"
   ]
 }

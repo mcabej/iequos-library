@@ -97,8 +97,8 @@ const App = () => {
         <Header />
         <Switch>
           <Route
-            path="/"
             exact
+            path="/"
             render={(props) => (
               <Home categories={categories} books={books} {...props} />
             )}

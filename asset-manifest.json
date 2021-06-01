@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iequos-library/static/css/main.5c4f4c12.chunk.css",
-    "main.js": "/iequos-library/static/js/main.7a6e8ce1.chunk.js",
-    "main.js.map": "/iequos-library/static/js/main.7a6e8ce1.chunk.js.map",
+    "main.js": "/iequos-library/static/js/main.d65ae247.chunk.js",
+    "main.js.map": "/iequos-library/static/js/main.d65ae247.chunk.js.map",
     "runtime-main.js": "/iequos-library/static/js/runtime-main.6cbc0d21.js",
     "runtime-main.js.map": "/iequos-library/static/js/runtime-main.6cbc0d21.js.map",
-    "static/js/2.5d536026.chunk.js": "/iequos-library/static/js/2.5d536026.chunk.js",
-    "static/js/2.5d536026.chunk.js.map": "/iequos-library/static/js/2.5d536026.chunk.js.map",
+    "static/js/2.9452bb2e.chunk.js": "/iequos-library/static/js/2.9452bb2e.chunk.js",
+    "static/js/2.9452bb2e.chunk.js.map": "/iequos-library/static/js/2.9452bb2e.chunk.js.map",
     "index.html": "/iequos-library/index.html",
     "static/css/main.5c4f4c12.chunk.css.map": "/iequos-library/static/css/main.5c4f4c12.chunk.css.map",
-    "static/js/2.5d536026.chunk.js.LICENSE.txt": "/iequos-library/static/js/2.5d536026.chunk.js.LICENSE.txt",
+    "static/js/2.9452bb2e.chunk.js.LICENSE.txt": "/iequos-library/static/js/2.9452bb2e.chunk.js.LICENSE.txt",
     "static/media/educated.jpg": "/iequos-library/static/media/educated.5d2e9f9e.jpg",
     "static/media/elle.jpg": "/iequos-library/static/media/elle.532ac9b8.jpg",
     "static/media/gh.jpg": "/iequos-library/static/media/gh.7304697d.jpg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6cbc0d21.js",
-    "static/js/2.5d536026.chunk.js",
+    "static/js/2.9452bb2e.chunk.js",
     "static/css/main.5c4f4c12.chunk.css",
-    "static/js/main.7a6e8ce1.chunk.js"
+    "static/js/main.d65ae247.chunk.js"
   ]
 }
